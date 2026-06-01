@@ -26,7 +26,7 @@ Estou em constante evolução, estudando **boas práticas de programação, back
 
 ## 🛠️ Tecnologias
 
-### Frontend / Mobile
+### Mobile / Frontend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -35,7 +35,7 @@ Estou em constante evolução, estudando **boas práticas de programação, back
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Dados & BI & Segurança (em aprendizado)
+### Dados, BI & Segurança (em aprendizado)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux)
@@ -50,7 +50,8 @@ Estou em constante evolução, estudando **boas práticas de programação, back
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Klei-kel&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klei-kel&layout=compact&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Klei-kel&layout=compact" />
 </p>
 
 ---
