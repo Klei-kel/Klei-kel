@@ -100,7 +100,9 @@ Projetos e práticas focadas em segurança da informação.
 
 ---
 
-## 📬 Contato
+##  Contato
 
+[📧 Email](mailto:cleytonferreirabatista16@gmail.com)
 🤝 Aberto a oportunidades como **Júnior em TI / Dados / Desenvolvimento**  
 📍 Brasil  
+
